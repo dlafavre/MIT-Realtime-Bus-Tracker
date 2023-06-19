@@ -1,0 +1,25 @@
+h1 {
+  color: maroon;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  padding: 10px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #fff;
+}
+h2 {
+  color: darkslategray;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  padding: 10px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #fff;
+}
+#map {
+  border: 5px solid maroon;
+  border-radius: 10px;
+  margin: auto;
+}
