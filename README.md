@@ -15,4 +15,4 @@ I changed the formatting of the map and added a little bit of color to make it s
 I would like to add a feature that allows the user to click on a bus and see the route that it is taking. I'd also like to add a feature that allows the user to click on a bus stop and see the next bus that will be arriving at that stop.
 
 ## License Information
-MIT License
+<a href="https://github.com/dlafavre/MIT-Realtime-Bus-Tracker/blob/master/LICENSE>MIT License</a>
